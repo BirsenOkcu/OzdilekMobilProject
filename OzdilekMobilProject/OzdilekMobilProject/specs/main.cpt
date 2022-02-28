@@ -1,0 +1,8 @@
+Created by testinium on 28.02.2022
+
+This is a concept file with following syntax for each concept.
+# Alışveriş butonuna tıkla
+* Alışveriş "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" butonuna tıkla
+
+# Kategoriler sayfası açılır
+* Kategoriler sayfası "com.ozdilek.ozdilekteyim:id/nav_categories" açılır
